@@ -4,4 +4,3 @@ const playingWithGit = (a, b) => {
 };
 
 playingWithGit(5, 5);
-"i am learning with git"
